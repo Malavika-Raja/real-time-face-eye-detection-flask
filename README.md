@@ -86,4 +86,9 @@ python app.py
 - Requires local webcam access
 - Not containerized or deployed to cloud (local development setup)
 
+## License Notice
+
+Haar Cascade XML files are sourced from the official OpenCV repository.
+OpenCV is distributed under the BSD 3-Clause License.
+
 
