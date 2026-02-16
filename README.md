@@ -49,9 +49,6 @@ This project demonstrates practical implementation of:
 
 ---
 
-
----
-
 ## Installation & Setup
 
 ### 1. Clone the Repository
